@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "5f6b637fa8aa4b0b38c95848"
+  },
+  "Date": "19/09/2020",
+  "team1": "CSK",
+  "team2": "MI",
+  "result": "CSK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6b639da8aa4b0b38c95849"
+  },
+  "Date": "20/09/2020",
+  "team1": "KXIP",
+  "team2": "DC",
+  "result": "DC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6b63c9a8aa4b0b38c9584a"
+  },
+  "Date": "21/10/2020",
+  "team1": "RCB",
+  "team2": "SRH",
+  "result": "RCB",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f6b63e5a8aa4b0b38c9584b"
+  },
+  "Date": "22/10/2020",
+  "team1": "CSK",
+  "team2": "RR",
+  "result": "RR",
+  "__v": 0
+}]
